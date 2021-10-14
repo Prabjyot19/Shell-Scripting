@@ -14,11 +14,11 @@ This repository provides you with the basic codes/programs used for Shell Script
 ## Execution
 
 ```
-sh <shell_script_file_name>.sh
+sh <file_name>.sh
 
 		OR
 
-./<shell_script_file_name>.sh (Only if the file is given executable permission)
+./<file_name>.sh (Only if the file is given executable permission)
 ```
 
 ## Author Information
