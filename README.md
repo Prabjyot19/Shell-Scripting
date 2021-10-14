@@ -4,8 +4,8 @@ This repository provides you with the basic codes/programs used for Shell Script
 
 ## Index
 
-1. hello_world.sh -> Prints the string provided within the **echo** keyword
-2. variables.sh   -> Usage of variables in shell script for storing and printing values
+1. echo.sh -> Prints the string provided within the **echo** keyword
+2. variables.sh   -> Usage of variables in shell script for **storing** and **printing** values
 
 ## Requirements
 
