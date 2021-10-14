@@ -15,9 +15,7 @@ This repository provides you with the basic codes/programs used for Shell Script
 
 ```
 sh <file_name>.sh
-
-		OR
-
+	OR
 ./<file_name>.sh (Only if the file is given executable permission)
 ```
 
